@@ -1,0 +1,27 @@
+{
+  "name": "rtctest",
+  "version": "0.0.0",
+  "description": "Cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Casuldo/rtctest"
+  },
+  "keywords": [
+    "rtc",
+    "test"
+  ],
+  "author": "Casuldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casuldo/rtctest/issues"
+  },
+  "homepage": "https://github.com/Casuldo/rtctest",
+  "dependencies": {
+    "express": "^3.4.8",
+    "logfmt": "^0.23.0"
+  }
+}
